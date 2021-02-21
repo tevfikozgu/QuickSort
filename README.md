@@ -4,5 +4,5 @@
  To execute this program, these are the steps:
  
  * First download all files and extract zip file.
- * In the next step, compile main.cpp by g++ -Wall -Werror main.cpp
+ * In the next step, compile main.cpp by g++ -Wall -Werror -std=c++11 main.cpp
 * Run file as ./a.out sales.txt
